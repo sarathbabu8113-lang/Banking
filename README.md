@@ -1,2 +1,23 @@
-# Banking
-This project focuses on analyzing loan default patterns using real-world financial data. The objective is to identify high-risk customers and key factors influencing loan defaults through data cleaning, SQL analysis, and interactive Power BI dashboards. 
+# Loan Default Risk Analysis
+
+## 📌 Objective
+Analyze loan data to identify factors affecting loan defaults.
+
+## 🛠 Tools Used
+- Python (Pandas)
+- SQL (MySQL)
+- Power BI
+
+## 📊 Key Insights
+- Low credit score → High default risk
+- More inquiries → Higher default probability
+- Certain manufacturers show higher defaults
+
+## 📁 Project Structure
+- data/ → dataset
+- sql/ → queries
+- notebook/ → Python cleaning
+- dashboard/ → Power BI screenshots
+
+## 📌 Conclusion
+Helps financial institutions reduce risk and improve decision-making.
